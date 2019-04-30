@@ -4,6 +4,7 @@ Following steps are required for every week except for 16th week
 
 1. Read through particular page from http://flutter.dev and highlight what you have read. highlighting will be done by getliner (chrome extension)
 - Visit www.getliner.com and learn how to use it
+ or upload .docx file on github
 
 2. Measure time while you read and code. 4hr for a week is mandatory. It will be checked through www.toggle.com. Don't forget to track your time! 
 
