@@ -1,4 +1,4 @@
-**This is place for study
+**This is place for study**
 
 Following steps are required for every week except for 16th week
 
