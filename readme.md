@@ -19,6 +19,6 @@ Following steps are required for every week except for 16th week
 
 공부 해올 내용 : 미정
 
-과제 : 9주차에서 한 코드 .dart파일 하나 더 만들어서 분리해서 실행시켜보기
+과제 : 
 
 <hr>
