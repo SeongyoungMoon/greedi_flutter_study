@@ -14,7 +14,7 @@ Following steps are required for every week except for 16th week
 5. update checklist.md every week
 
 <hr>
-<h2>10주차(4/30 ~ 5/7)
+<h2>10주차(4/30 ~ 5/7)</h2>
 
 공부 해올 내용 : 미정
 
