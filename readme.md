@@ -12,3 +12,10 @@ Following steps are required for every week except for 16th week
 4. After type and run code, push your code to your own directory with snapshots of running screen in emulator
 
 5. update checklist.md every week
+
+<hr>
+10주차(4/30 ~ 5/7)
+공부 해올 내용 : 미정
+과제 : 9주차에서 한 코드 .dart파일 하나 더 만들어서 분리해서 실행시켜보기
+
+<hr>
